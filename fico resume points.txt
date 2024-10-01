@@ -1,0 +1,7 @@
+1.Creation of profit centre and profit centre standard hierarchy.
+2.:  SAP-R/3 FI/CO, FI Integration with MM, FI Integration with SD 
+3.•	ERP   			 : SAP-R/3 FI/CO, FI Integration with MM, FI Integration with SD                           IDES ECC 6.0 incl EHP7 Edition 2 (2015)
+•	 Language       	 :  MS word, Excel, PowerPoint
+•	 Methodology            : ASAP
+4. IDES ECC 6.0 incl. EhP7 Edition 2 (2015)
+ 	
